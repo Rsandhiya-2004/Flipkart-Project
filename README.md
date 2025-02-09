@@ -32,9 +32,8 @@ OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/eebe9f8b-0634-44ec-aea5-9153b41e9a32)
 
+![image](https://github.com/user-attachments/assets/cfec9600-1ad8-4a84-a2e9-0685cf33f984)
 
-
-![image](https://github.com/user-attachments/assets/732b4900-ed8d-43ba-bc5b-5f2d9027aa7d)
 
 ![image](https://github.com/user-attachments/assets/c794e2d7-08a9-4261-acef-f44548aa359d)
 
