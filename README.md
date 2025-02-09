@@ -37,4 +37,4 @@ OUTPUT:
 ![image](https://github.com/user-attachments/assets/3d8c8825-f3eb-40b7-9b14-39f647261921)
 
 
-![image](https://github.com/user-attachments/assets/6a0884b1-b2da-401e-b31d-2b326ab36b87)
+![image](https://github.com/user-attachments/assets/be28ba85-3a68-4732-8921-d2b2deb5b7d1)
