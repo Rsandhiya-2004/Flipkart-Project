@@ -10,7 +10,9 @@ High-Quality Visuals – Uses images and design elements for a better shopping e
 OUTPUT:
 
 
-![image](https://github.com/user-attachments/assets/fe131eda-44a5-4263-948a-615396d11be3)
+
+![image](https://github.com/user-attachments/assets/0b94d070-d2bf-4a25-b76d-452b5086b068)
+
 
 
 ![image](https://github.com/user-attachments/assets/79ccc7d8-7931-4202-915e-fec6367eff8f)
