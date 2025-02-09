@@ -30,8 +30,8 @@ OUTPUT:
 
 
 
+![image](https://github.com/user-attachments/assets/eebe9f8b-0634-44ec-aea5-9153b41e9a32)
 
-![image](https://github.com/user-attachments/assets/d2baca18-074c-4f26-af53-ca9970dcf3be)
 
 
 ![image](https://github.com/user-attachments/assets/732b4900-ed8d-43ba-bc5b-5f2d9027aa7d)
