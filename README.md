@@ -8,7 +8,9 @@ Smooth Navigation – Well-structured layout for easy browsing.
 High-Quality Visuals – Uses images and design elements for a better shopping experience.
 
 OUTPUT:
-![image](https://github.com/user-attachments/assets/2d376377-c3b9-4f99-9cc6-36b5b11cd7e7)
+
+
+![image](https://github.com/user-attachments/assets/fe131eda-44a5-4263-948a-615396d11be3)
 
 
 ![image](https://github.com/user-attachments/assets/79ccc7d8-7931-4202-915e-fec6367eff8f)
